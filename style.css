@@ -1,0 +1,50 @@
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: rgb(216, 196, 170);
+}
+
+#sec1 {
+  margin: 30px;
+  padding: 10px;
+}
+.made {
+  color: rgb(92, 64, 4);
+}
+
+.div h3 {
+  color: rgb(221, 73, 4);
+}
+
+input {
+  border-radius: 20px;
+  height: 30px;
+  border-color: rgb(197, 13, 13);
+  width: 20%;
+  margin-bottom: 10px;
+}
+
+button {
+  border-radius: 50px;
+  border-color: rgb(197, 13, 13);
+  padding: 10px;
+  color: rgb(19, 1, 1);
+  background-color: coral;
+  font-size: 15pt;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+button:hover {
+  font-size: x-large;
+  background-color: rgb(180, 216, 18);
+}
+
+#sub {
+  margin-bottom: 30px;
+}
+
+.ft {
+  background-color: rgb(9, 202, 176);
+  color: rgb(36, 1, 1);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-top:30px
+}
